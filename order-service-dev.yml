@@ -1,1 +1,2 @@
-server.name=order
+server:
+  name: order
